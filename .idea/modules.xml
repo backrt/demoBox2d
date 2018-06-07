@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoBox2d_01.iml" filepath="$PROJECT_DIR$/DemoBox2d_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libgdxbox2d/libgdxbox2d.iml" filepath="$PROJECT_DIR$/libgdxbox2d/libgdxbox2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libjbox2d/libjbox2d.iml" filepath="$PROJECT_DIR$/libjbox2d/libjbox2d.iml" />
+    </modules>
+  </component>
+</project>

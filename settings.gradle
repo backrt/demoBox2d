@@ -1,0 +1,1 @@
+include ':app', ':libgdxbox2d', ':libjbox2d'
